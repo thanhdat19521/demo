@@ -1,14 +1,62 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+      sale: '2%',
+      image: 'https://cdn.tgdd.vn/Products/Images/42/230407/iphone-11-64gb-hop-moi-292420-102454-400x400.jpg',
+      name: 'Iphone 11 64GB',
+      price: 19990000,
+      desktop: '6.1", Liquid Retina',
+      chip: 'Apple A13 Bionic 6 nhân',
+      ram: '4 GB',
+      memory: '64 GB',
+      camera: '2 camera 12 MP',
+      pin: '3110 mAh, có sạc nhanh'
+  },
+  {
+      sale: '2%',
+      image: 'https://cdn.tgdd.vn/Products/Images/42/230407/iphone-11-64gb-hop-moi-292420-102454-400x400.jpg',
+      name: 'Iphone 11 64GB',
+      price: 19990000,
+      desktop: '6.1", Liquid Retina',
+      chip: 'Apple A13 Bionic 6 nhân',
+      ram: '4 GB',
+      memory: '64 GB',
+      camera: '2 camera 12 MP',
+      pin: '3110 mAh, có sạc nhanh'
+  },
+  {
+      sale: '2%',
+      image: 'https://cdn.tgdd.vn/Products/Images/42/230407/iphone-11-64gb-hop-moi-292420-102454-400x400.jpg',
+      name: 'Iphone 11 64GB',
+      price: 19990000,
+      desktop: '6.1", Liquid Retina',
+      chip: 'Apple A13 Bionic 6 nhân',
+      ram: '4 GB',
+      memory: '64 GB',
+      camera: '2 camera 12 MP',
+      pin: '3110 mAh, có sạc nhanh'
+  },
+  {
+      sale: '2%',
+      image: 'https://cdn.tgdd.vn/Products/Images/42/230407/iphone-11-64gb-hop-moi-292420-102454-400x400.jpg',
+      name: 'Iphone 11 64GB',
+      price: 19990000,
+      desktop: '6.1", Liquid Retina',
+      chip: 'Apple A13 Bionic 6 nhân',
+      ram: '4 GB',
+      memory: '64 GB',
+      camera: '2 camera 12 MP',
+      pin: '3110 mAh, có sạc nhanh'
+  },
+  {
+      sale: '2%',
+      image: 'https://cdn.tgdd.vn/Products/Images/42/230407/iphone-11-64gb-hop-moi-292420-102454-400x400.jpg',
+      name: 'Iphone 11 64GB',
+      price: 19990000,
+      desktop: '6.1", Liquid Retina',
+      chip: 'Apple A13 Bionic 6 nhân',
+      ram: '4 GB',
+      memory: '64 GB',
+      camera: '2 camera 12 MP',
+      pin: '3110 mAh, có sạc nhanh'
   }
-}
+]
